@@ -45,6 +45,7 @@ public class Agencja {
     void setDlugosc(double dl) {
         this.dl = dl;
     }
+    // siema co tam
 
     void setSzerokosc(double szer) {
         this.szer = szer;
